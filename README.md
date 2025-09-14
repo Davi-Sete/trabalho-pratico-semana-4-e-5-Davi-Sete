@@ -8,10 +8,10 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Davi Sete Simoes
+- Matricula: 898682
+- Proposta de projeto escolhida: Proposta 4
+- Breve descrição sobre seu projeto:Uma paródia do site do "spotify" com playlists criadas para momentos específicos e vários estilos musicais.
 
 ## Print da versão responsiva com CSS puro
 
